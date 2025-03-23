@@ -25,4 +25,4 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run MLOps Pipeline
-        run: python src/mlops_pipeline.py
+        run: python src/Final.py

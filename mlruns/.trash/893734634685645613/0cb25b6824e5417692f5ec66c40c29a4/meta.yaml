@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/893734634685645613/0cb25b6824e5417692f5ec66c40c29a4/artifacts
+deleted_time: 1742740324043
+end_time: 1742740040263
+entry_point_name: ''
+experiment_id: '893734634685645613'
+lifecycle_stage: deleted
+run_id: 0cb25b6824e5417692f5ec66c40c29a4
+run_name: H2O AutoML Run
+run_uuid: 0cb25b6824e5417692f5ec66c40c29a4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742739937347
+status: 3
+tags: []
+user_id: Venky

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/805389423123990091/37fdf491da274f22a226bbf509bdfc5b/artifacts
+end_time: 1742747972034
+entry_point_name: ''
+experiment_id: '805389423123990091'
+lifecycle_stage: active
+run_id: 37fdf491da274f22a226bbf509bdfc5b
+run_name: Drift Detection
+run_uuid: 37fdf491da274f22a226bbf509bdfc5b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742747972002
+status: 3
+tags: []
+user_id: Venky

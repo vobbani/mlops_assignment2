@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/468807806513618557/6dc9a893ff98477dbce800954b6428ca/artifacts
+deleted_time: 1742740333377
+end_time: 1742727677692
+entry_point_name: ''
+experiment_id: '468807806513618557'
+lifecycle_stage: deleted
+run_id: 6dc9a893ff98477dbce800954b6428ca
+run_name: silent-shoat-886
+run_uuid: 6dc9a893ff98477dbce800954b6428ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742727677679
+status: 4
+tags: []
+user_id: Venky

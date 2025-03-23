@@ -1,0 +1,12 @@
+tensorflow
+pandas
+matplotlib
+seaborn
+ydata-profiling
+mlflow
+h2o
+optuna
+scikit-learn
+numpy
+evidently
+shap

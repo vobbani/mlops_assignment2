@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/0/fc8f04827f5e4cf1b4e58466f02d7bfc/artifacts
+deleted_time: 1742747122859
+end_time: 1742744478642
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: fc8f04827f5e4cf1b4e58466f02d7bfc
+run_name: Optuna Best Model - DRF
+run_uuid: fc8f04827f5e4cf1b4e58466f02d7bfc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742744478610
+status: 3
+tags: []
+user_id: Venky

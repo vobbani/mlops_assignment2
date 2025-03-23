@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/893734634685645613/662d39ad12d64d94a27fe05fc2bcdc94/artifacts
+deleted_time: 1742740324057
+end_time: 1742736235181
+entry_point_name: ''
+experiment_id: '893734634685645613'
+lifecycle_stage: deleted
+run_id: 662d39ad12d64d94a27fe05fc2bcdc94
+run_name: chill-ant-212
+run_uuid: 662d39ad12d64d94a27fe05fc2bcdc94
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742736234998
+status: 4
+tags: []
+user_id: Venky

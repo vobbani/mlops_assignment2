@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/893734634685645613/68e9e32b2e444c258d0a2c53c3b48fad/artifacts
+deleted_time: 1742740324058
+end_time: 1742735907230
+entry_point_name: ''
+experiment_id: '893734634685645613'
+lifecycle_stage: deleted
+run_id: 68e9e32b2e444c258d0a2c53c3b48fad
+run_name: orderly-asp-616
+run_uuid: 68e9e32b2e444c258d0a2c53c3b48fad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742735907030
+status: 4
+tags: []
+user_id: Venky

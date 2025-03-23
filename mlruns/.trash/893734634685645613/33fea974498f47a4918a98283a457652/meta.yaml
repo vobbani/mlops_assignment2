@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/893734634685645613/33fea974498f47a4918a98283a457652/artifacts
+deleted_time: 1742740324053
+end_time: 1742737703457
+entry_point_name: ''
+experiment_id: '893734634685645613'
+lifecycle_stage: deleted
+run_id: 33fea974498f47a4918a98283a457652
+run_name: polite-flea-419
+run_uuid: 33fea974498f47a4918a98283a457652
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742737598445
+status: 3
+tags: []
+user_id: Venky

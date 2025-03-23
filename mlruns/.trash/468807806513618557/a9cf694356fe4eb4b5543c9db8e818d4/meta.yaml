@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/468807806513618557/a9cf694356fe4eb4b5543c9db8e818d4/artifacts
+deleted_time: 1742740333377
+end_time: 1742728404416
+entry_point_name: ''
+experiment_id: '468807806513618557'
+lifecycle_stage: deleted
+run_id: a9cf694356fe4eb4b5543c9db8e818d4
+run_name: masked-shark-355
+run_uuid: a9cf694356fe4eb4b5543c9db8e818d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742728404400
+status: 3
+tags: []
+user_id: Venky

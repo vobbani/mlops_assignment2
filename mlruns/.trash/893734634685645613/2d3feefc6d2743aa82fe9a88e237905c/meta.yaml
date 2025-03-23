@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/893734634685645613/2d3feefc6d2743aa82fe9a88e237905c/artifacts
+deleted_time: 1742740324036
+end_time: 1742740043873
+entry_point_name: ''
+experiment_id: '893734634685645613'
+lifecycle_stage: deleted
+run_id: 2d3feefc6d2743aa82fe9a88e237905c
+run_name: Optuna Best Model - GLM
+run_uuid: 2d3feefc6d2743aa82fe9a88e237905c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742740043846
+status: 3
+tags: []
+user_id: Venky

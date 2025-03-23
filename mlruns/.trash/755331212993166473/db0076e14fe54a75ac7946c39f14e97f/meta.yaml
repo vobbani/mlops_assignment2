@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/755331212993166473/db0076e14fe54a75ac7946c39f14e97f/artifacts
+deleted_time: 1742740331477
+end_time: 1742738097119
+entry_point_name: ''
+experiment_id: '755331212993166473'
+lifecycle_stage: deleted
+run_id: db0076e14fe54a75ac7946c39f14e97f
+run_name: Optuna Best Model
+run_uuid: db0076e14fe54a75ac7946c39f14e97f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742738097101
+status: 4
+tags: []
+user_id: Venky

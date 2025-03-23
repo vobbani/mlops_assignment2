@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/0/5d2084fe0e354d1e94ceb19eb27b8c59/artifacts
+deleted_time: 1742747122836
+end_time: 1742746732392
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 5d2084fe0e354d1e94ceb19eb27b8c59
+run_name: Feature Engineering with SHAP
+run_uuid: 5d2084fe0e354d1e94ceb19eb27b8c59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742746732352
+status: 3
+tags: []
+user_id: Venky

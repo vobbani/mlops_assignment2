@@ -1,0 +1,7 @@
+artifact_location: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/771339598003469797
+creation_time: 1742740933272
+experiment_id: '771339598003469797'
+last_update_time: 1742747055218
+lifecycle_stage: deleted
+name: fashion_mnist_mlops_pipeline
+tags: {}

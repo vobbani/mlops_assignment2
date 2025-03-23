@@ -1,0 +1,7 @@
+artifact_location: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/893734634685645613
+creation_time: 1742735906663
+experiment_id: '893734634685645613'
+last_update_time: 1742740326587
+lifecycle_stage: deleted
+name: mnist_h2o_automl
+tags: {}

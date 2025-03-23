@@ -1,0 +1,16 @@
+artifact_uri: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/893734634685645613/915a112b095a43508349324b63b22404/artifacts
+deleted_time: 1742740324036
+end_time: 1742738096843
+entry_point_name: ''
+experiment_id: '893734634685645613'
+lifecycle_stage: deleted
+run_id: 915a112b095a43508349324b63b22404
+run_name: bald-stork-635
+run_uuid: 915a112b095a43508349324b63b22404
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1742737992296
+status: 3
+tags: []
+user_id: Venky

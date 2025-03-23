@@ -1,0 +1,7 @@
+artifact_location: file:///D:/Venky/Professional/MTech/sem-3/MLOps/Assignment2/repo/mlops_assignment2/mlruns/755331212993166473
+creation_time: 1742738097091
+experiment_id: '755331212993166473'
+last_update_time: 1742740331477
+lifecycle_stage: deleted
+name: mnist_optuna_tuning
+tags: {}
